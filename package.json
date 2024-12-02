@@ -1,6 +1,6 @@
 {
-  "name": "probablynothing-botpro",
-  "version": "1.0.1",
+  "name": "probability-asker-pro",
+  "version": "1.0.0",
   "description": "Uninstall everything and nothing effortlessly with a bot for streamlined removal of unwanted data.",
   "main": "index.js",
   "scripts": {
